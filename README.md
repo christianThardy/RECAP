@@ -236,12 +236,11 @@ Each prompt object contains the following fields:
 "model_used": "gpt-4.5-preview-2025-02-27",
 "created_utc": "2025-05-21T15:49:01.905684+00:00",
 "prompt": "As I walked into the {} coffee shop, I noticed everyone was intensely focused on their laptops. I {} at the sign that read 'Please respect the quiet workspace' and quickly {} my music volume.",
-"placeholder_pairs":
-
-[["busy", "quiet"],
+"placeholder_pairs":[
+ ["busy", "quiet"],
  ["glanced briefly", "ignored"],
- ["lowered", "maintained"]],
-
+ ["lowered", "maintained"]
+],
 "forking_indices": [1],
 "complexity": "medium",
 "reasoning_depth": 4,
