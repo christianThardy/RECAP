@@ -1,5 +1,5 @@
 # REaCAP: Reasoning Evaluation & Analysis with Cognitive and Alignment Prompts
-## A Multi-Category Prompt Dataset with Multi-Path Tokens
+## A Multi-Category Prompt Dataset with Single & Multi-Path Tokens
 
 ## Overview
 
@@ -59,7 +59,7 @@ The `metadata` object contains the following fields:
 
 Each prompt object contains the following fields:
 
-### Common Fields (Both Single-Path and Forking)
+### Common Fields (Both Single-Path and Multi-Path)
 
 ```markdown
 | Field                | Type             | Description                                                             |
@@ -208,7 +208,7 @@ Each prompt object contains the following fields:
 
 ## Examples of Prompt Objects (in _rows)
 
-### Single-Path Prompt
+### Single-Path Token Prompt
 
 ```json
 {
