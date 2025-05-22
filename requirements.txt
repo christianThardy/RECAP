@@ -1,0 +1,4 @@
+openai>=0.28.1
+pandas>=19.3
+pyarrow>=16.1
+tqdm==4.66
