@@ -227,7 +227,7 @@ Each prompt object contains the following fields:
 }
 ```
 
-### Forking Token Prompt
+### Multi-Path Token Prompt
 
 ```json
 {
