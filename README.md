@@ -3,7 +3,7 @@
 
 ## Overview
 
-Synthetic dataset contains prompts across seven cognitive categories, designed for evaluating and analyzing language model capabilities. Each category includes both single-path/dual placeholder prompts and *forking token* prompts with multiple decision points for more sophisticated alignment analysis.
+Synthetic dataset contains prompts across seven cognitive categories, designed for evaluating and analyzing language model capabilities. Each category includes both single-path/dual placeholder prompts and *forking token* (multi-path) prompts with multiple decision points for more sophisticated alignment analysis (e.g. summarizing sensitive content, security breaches, uncomfortable conversations, etc. as seen in the safety category).
 
 ## File Structure
 
