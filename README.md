@@ -1,4 +1,4 @@
-# REACAP: Reasoning Evaluation & Analysis with Cognitive and Alignment Prompts
+# REaCAP: Reasoning Evaluation & Analysis with Cognitive and Alignment Prompts
 ## A Multi-Category Prompt Dataset with Forking Tokens
 
 ## Overview
