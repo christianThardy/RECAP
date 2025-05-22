@@ -78,7 +78,7 @@ Each prompt object contains the following fields:
 | `is_forking`         | Boolean          | Whether this is a forking token prompt (multiple placeholders)          |
 ```
 
-### Additional Fields for Forking Prompts Only
+### Additional Fields for Multi-Path Prompts Only
 
 ```markdown
 | Field               | Type              | Description                                                       |
